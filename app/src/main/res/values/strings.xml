@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocusX</string>
+<!--        This allows to customize dialog texts for locus.-->
+    <string name="locus_rationale_title">Location Permission Required</string>
+    <string name="locus_rationale_message">Location permission is required in order to use this app properly. Please grant the permission.</string>
+    <string name="locus_permission_blocked_title">Location Permission Blocked</string>
+    <string name="locus_permission_blocked_message">Location Permission is Blocked. Please allow permission from the settings screen to use this app</string>
+    <string name="locus_location_resolution_title">Location is currently disabled</string>
+    <string name="locus_location_resolution_message">Please enable access to device to device location is to proceed further</string>
+</resources>
